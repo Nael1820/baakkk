@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="popbob-pixel.png"><SubTexture name="popbob-pixel idle0000" x="0" y="0" width="37" height="36" frameX="0" frameY="0" frameWidth="37" frameHeight="36" />
+<SubTexture name="popbob-pixel idle0001" x="37" y="0" width="37" height="36" frameX="0" frameY="0" frameWidth="37" frameHeight="36" />
+<SubTexture name="popbob-pixel right0000" x="74" y="0" width="37" height="36" frameX="0" frameY="0" frameWidth="37" frameHeight="36" />
+<SubTexture name="popbob-pixel left0000" x="111" y="0" width="37" height="36" frameX="0" frameY="0" frameWidth="37" frameHeight="36" />
+<SubTexture name="popbob-pixel up0000" x="0" y="36" width="37" height="36" frameX="0" frameY="0" frameWidth="37" frameHeight="36" />
+<SubTexture name="popbob-pixel down0000" x="37" y="36" width="37" height="36" frameX="0" frameY="0" frameWidth="37" frameHeight="36" />
+</TextureAtlas>

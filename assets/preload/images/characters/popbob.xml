@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="popbob.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="popbob down0000" x="1027" y="1872" width="478" height="600"/>
+	<SubTexture name="popbob down0001" x="1027" y="1872" width="478" height="600"/>
+	<SubTexture name="popbob down0002" x="1463" y="2472" width="478" height="600"/>
+	<SubTexture name="popbob down0003" x="1463" y="2472" width="478" height="600"/>
+	<SubTexture name="popbob down0004" x="1463" y="3072" width="478" height="600"/>
+	<SubTexture name="popbob down0005" x="1463" y="3072" width="478" height="600"/>
+	<SubTexture name="popbob down0006" x="1463" y="3072" width="478" height="600"/>
+	<SubTexture name="popbob down0007" x="1463" y="3072" width="478" height="600"/>
+	<SubTexture name="popbob down0008" x="1463" y="3072" width="478" height="600"/>
+	<SubTexture name="popbob down0009" x="1463" y="3072" width="478" height="600"/>
+	<SubTexture name="popbob down0010" x="1463" y="3072" width="478" height="600"/>
+	<SubTexture name="popbob down0011" x="1463" y="3072" width="478" height="600"/>
+	<SubTexture name="popbob down0012" x="1463" y="3072" width="478" height="600"/>
+	<SubTexture name="popbob down0013" x="1463" y="3072" width="478" height="600"/>
+	<SubTexture name="popbob down0014" x="1463" y="3072" width="478" height="600"/>
+	<SubTexture name="popbob down alt0000" x="475" y="1875" width="552" height="586"/>
+	<SubTexture name="popbob down alt0001" x="475" y="1875" width="552" height="586"/>
+	<SubTexture name="popbob down alt0002" x="475" y="2461" width="552" height="586"/>
+	<SubTexture name="popbob down alt0003" x="475" y="2461" width="552" height="586"/>
+	<SubTexture name="popbob down alt0004" x="475" y="2461" width="552" height="586"/>
+	<SubTexture name="popbob down alt0005" x="475" y="2461" width="552" height="586"/>
+	<SubTexture name="popbob down alt0006" x="475" y="2461" width="552" height="586"/>
+	<SubTexture name="popbob down alt0007" x="475" y="2461" width="552" height="586"/>
+	<SubTexture name="popbob down alt0008" x="475" y="2461" width="552" height="586"/>
+	<SubTexture name="popbob down alt0009" x="475" y="2461" width="552" height="586"/>
+	<SubTexture name="popbob down alt0010" x="475" y="2461" width="552" height="586"/>
+	<SubTexture name="popbob down alt0011" x="475" y="2461" width="552" height="586"/>
+	<SubTexture name="popbob down alt0012" x="475" y="2461" width="552" height="586"/>
+	<SubTexture name="popbob down alt0013" x="475" y="2461" width="552" height="586"/>
+	<SubTexture name="popbob down alt0014" x="475" y="2461" width="552" height="586"/>
+	<SubTexture name="popbob idle0000" x="1036" y="1212" width="407" height="628"/>
+	<SubTexture name="popbob idle0001" x="1036" y="1212" width="407" height="628"/>
+	<SubTexture name="popbob idle0002" x="1443" y="1212" width="407" height="628"/>
+	<SubTexture name="popbob idle0003" x="1443" y="1212" width="407" height="628"/>
+	<SubTexture name="popbob idle0004" x="1505" y="1840" width="407" height="628"/>
+	<SubTexture name="popbob idle0005" x="1505" y="1840" width="407" height="628"/>
+	<SubTexture name="popbob idle0006" x="1509" y="0" width="407" height="628"/>
+	<SubTexture name="popbob idle0007" x="1509" y="0" width="407" height="628"/>
+	<SubTexture name="popbob idle0008" x="1850" y="628" width="407" height="628"/>
+	<SubTexture name="popbob idle0009" x="1850" y="628" width="407" height="628"/>
+	<SubTexture name="popbob idle0010" x="1850" y="628" width="407" height="628"/>
+	<SubTexture name="popbob idle0011" x="1850" y="628" width="407" height="628"/>
+	<SubTexture name="popbob idle0012" x="1850" y="628" width="407" height="628"/>
+	<SubTexture name="popbob idle0013" x="1916" y="0" width="407" height="628"/>
+	<SubTexture name="popbob idle0014" x="1916" y="0" width="407" height="628"/>
+	<SubTexture name="popbob idle alt0000" x="2281" y="628" width="327" height="633"/>
+	<SubTexture name="popbob idle alt0001" x="2281" y="628" width="327" height="633"/>
+	<SubTexture name="popbob idle alt0002" x="2281" y="1261" width="327" height="633"/>
+	<SubTexture name="popbob idle alt0003" x="2281" y="1261" width="327" height="633"/>
+	<SubTexture name="popbob idle alt0004" x="1941" y="2630" width="327" height="633"/>
+	<SubTexture name="popbob idle alt0005" x="1941" y="2630" width="327" height="633"/>
+	<SubTexture name="popbob idle alt0006" x="1941" y="3263" width="327" height="633"/>
+	<SubTexture name="popbob idle alt0007" x="1941" y="3263" width="327" height="633"/>
+	<SubTexture name="popbob idle alt0008" x="1941" y="3263" width="327" height="633"/>
+	<SubTexture name="popbob idle alt0009" x="1941" y="3263" width="327" height="633"/>
+	<SubTexture name="popbob idle alt0010" x="1941" y="3263" width="327" height="633"/>
+	<SubTexture name="popbob idle alt0011" x="1941" y="3263" width="327" height="633"/>
+	<SubTexture name="popbob idle alt0012" x="1941" y="3263" width="327" height="633"/>
+	<SubTexture name="popbob idle alt0013" x="1941" y="3263" width="327" height="633"/>
+	<SubTexture name="popbob idle alt0014" x="1941" y="3263" width="327" height="633"/>
+	<SubTexture name="popbob left0000" x="549" y="0" width="487" height="624"/>
+	<SubTexture name="popbob left0001" x="549" y="0" width="487" height="624"/>
+	<SubTexture name="popbob left0002" x="549" y="624" width="487" height="624"/>
+	<SubTexture name="popbob left0003" x="549" y="624" width="487" height="624"/>
+	<SubTexture name="popbob left0004" x="549" y="1248" width="487" height="624"/>
+	<SubTexture name="popbob left0005" x="549" y="1248" width="487" height="624"/>
+	<SubTexture name="popbob left0006" x="549" y="1248" width="487" height="624"/>
+	<SubTexture name="popbob left0007" x="549" y="1248" width="487" height="624"/>
+	<SubTexture name="popbob left0008" x="549" y="1248" width="487" height="624"/>
+	<SubTexture name="popbob left0009" x="549" y="1248" width="487" height="624"/>
+	<SubTexture name="popbob left0010" x="549" y="1248" width="487" height="624"/>
+	<SubTexture name="popbob left0011" x="549" y="1248" width="487" height="624"/>
+	<SubTexture name="popbob left0012" x="549" y="1248" width="487" height="624"/>
+	<SubTexture name="popbob left0013" x="549" y="1248" width="487" height="624"/>
+	<SubTexture name="popbob left0014" x="549" y="1248" width="487" height="624"/>
+	<SubTexture name="popbob left alt0000" x="475" y="3047" width="494" height="628"/>
+	<SubTexture name="popbob left alt0001" x="475" y="3047" width="494" height="628"/>
+	<SubTexture name="popbob left alt0002" x="969" y="3047" width="494" height="628"/>
+	<SubTexture name="popbob left alt0003" x="969" y="3047" width="494" height="628"/>
+	<SubTexture name="popbob left alt0004" x="969" y="3047" width="494" height="628"/>
+	<SubTexture name="popbob left alt0005" x="969" y="3047" width="494" height="628"/>
+	<SubTexture name="popbob left alt0006" x="969" y="3047" width="494" height="628"/>
+	<SubTexture name="popbob left alt0007" x="969" y="3047" width="494" height="628"/>
+	<SubTexture name="popbob left alt0008" x="969" y="3047" width="494" height="628"/>
+	<SubTexture name="popbob left alt0009" x="969" y="3047" width="494" height="628"/>
+	<SubTexture name="popbob left alt0010" x="969" y="3047" width="494" height="628"/>
+	<SubTexture name="popbob left alt0011" x="969" y="3047" width="494" height="628"/>
+	<SubTexture name="popbob left alt0012" x="969" y="3047" width="494" height="628"/>
+	<SubTexture name="popbob left alt0013" x="969" y="3047" width="494" height="628"/>
+	<SubTexture name="popbob left alt0014" x="969" y="3047" width="494" height="628"/>
+	<SubTexture name="popbob right alt0000" x="1036" y="0" width="473" height="606"/>
+	<SubTexture name="popbob right alt0001" x="1036" y="0" width="473" height="606"/>
+	<SubTexture name="popbob right alt0002" x="1036" y="606" width="473" height="606"/>
+	<SubTexture name="popbob right alt0003" x="1036" y="606" width="473" height="606"/>
+	<SubTexture name="popbob right alt0004" x="1036" y="606" width="473" height="606"/>
+	<SubTexture name="popbob right alt0005" x="1036" y="606" width="473" height="606"/>
+	<SubTexture name="popbob right alt0006" x="1036" y="606" width="473" height="606"/>
+	<SubTexture name="popbob right alt0007" x="1036" y="606" width="473" height="606"/>
+	<SubTexture name="popbob right alt0008" x="1036" y="606" width="473" height="606"/>
+	<SubTexture name="popbob right alt0009" x="1036" y="606" width="473" height="606"/>
+	<SubTexture name="popbob right alt0010" x="1036" y="606" width="473" height="606"/>
+	<SubTexture name="popbob right alt0011" x="1036" y="606" width="473" height="606"/>
+	<SubTexture name="popbob right alt0012" x="1036" y="606" width="473" height="606"/>
+	<SubTexture name="popbob right alt0013" x="1036" y="606" width="473" height="606"/>
+	<SubTexture name="popbob right alt0014" x="1036" y="606" width="473" height="606"/>
+	<SubTexture name="popbob up0000" x="0" y="1875" width="475" height="688"/>
+	<SubTexture name="popbob up0001" x="0" y="1875" width="475" height="688"/>
+	<SubTexture name="popbob up0002" x="0" y="2563" width="475" height="688"/>
+	<SubTexture name="popbob up0003" x="0" y="2563" width="475" height="688"/>
+	<SubTexture name="popbob up0004" x="0" y="3251" width="475" height="688"/>
+	<SubTexture name="popbob up0005" x="0" y="3251" width="475" height="688"/>
+	<SubTexture name="popbob up0006" x="0" y="3251" width="475" height="688"/>
+	<SubTexture name="popbob up0007" x="0" y="3251" width="475" height="688"/>
+	<SubTexture name="popbob up0008" x="0" y="3251" width="475" height="688"/>
+	<SubTexture name="popbob up0009" x="0" y="3251" width="475" height="688"/>
+	<SubTexture name="popbob up0010" x="0" y="3251" width="475" height="688"/>
+	<SubTexture name="popbob up0011" x="0" y="3251" width="475" height="688"/>
+	<SubTexture name="popbob up0012" x="0" y="3251" width="475" height="688"/>
+	<SubTexture name="popbob up0013" x="0" y="3251" width="475" height="688"/>
+	<SubTexture name="popbob up0014" x="0" y="3251" width="475" height="688"/>
+	<SubTexture name="popbob up alt0000" x="1912" y="1256" width="369" height="687"/>
+	<SubTexture name="popbob up alt0001" x="1912" y="1256" width="369" height="687"/>
+	<SubTexture name="popbob up alt0002" x="1941" y="1943" width="369" height="687"/>
+	<SubTexture name="popbob up alt0003" x="1941" y="1943" width="369" height="687"/>
+	<SubTexture name="popbob up alt0004" x="1941" y="1943" width="369" height="687"/>
+	<SubTexture name="popbob up alt0005" x="1941" y="1943" width="369" height="687"/>
+	<SubTexture name="popbob up alt0006" x="1941" y="1943" width="369" height="687"/>
+	<SubTexture name="popbob up alt0007" x="1941" y="1943" width="369" height="687"/>
+	<SubTexture name="popbob up alt0008" x="1941" y="1943" width="369" height="687"/>
+	<SubTexture name="popbob up alt0009" x="1941" y="1943" width="369" height="687"/>
+	<SubTexture name="popbob up alt0010" x="1941" y="1943" width="369" height="687"/>
+	<SubTexture name="popbob up alt0011" x="1941" y="1943" width="369" height="687"/>
+	<SubTexture name="popbob up alt0012" x="1941" y="1943" width="369" height="687"/>
+	<SubTexture name="popbob up alt0013" x="1941" y="1943" width="369" height="687"/>
+	<SubTexture name="popbob up alt0014" x="1941" y="1943" width="369" height="687"/>
+	<SubTexture name="popbop right0000" x="0" y="0" width="549" height="625"/>
+	<SubTexture name="popbop right0001" x="0" y="0" width="549" height="625"/>
+	<SubTexture name="popbop right0002" x="0" y="625" width="549" height="625"/>
+	<SubTexture name="popbop right0003" x="0" y="625" width="549" height="625"/>
+	<SubTexture name="popbop right0004" x="0" y="1250" width="549" height="625"/>
+	<SubTexture name="popbop right0005" x="0" y="1250" width="549" height="625"/>
+	<SubTexture name="popbop right0006" x="0" y="1250" width="549" height="625"/>
+	<SubTexture name="popbop right0007" x="0" y="1250" width="549" height="625"/>
+	<SubTexture name="popbop right0008" x="0" y="1250" width="549" height="625"/>
+	<SubTexture name="popbop right0009" x="0" y="1250" width="549" height="625"/>
+	<SubTexture name="popbop right0010" x="0" y="1250" width="549" height="625"/>
+	<SubTexture name="popbop right0011" x="0" y="1250" width="549" height="625"/>
+	<SubTexture name="popbop right0012" x="0" y="1250" width="549" height="625"/>
+	<SubTexture name="popbop right0013" x="0" y="1250" width="549" height="625"/>
+	<SubTexture name="popbop right0014" x="0" y="1250" width="549" height="625"/>
+</TextureAtlas>
