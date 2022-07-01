@@ -1,0 +1,179 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "2b2t",
+		"player1": "bfpopbob",
+		"player2": "popbob",
+		"player3": null,
+		"events": [
+			[
+				13150.6849315069,
+				[
+					[
+						"Flash Camera",
+						"1",
+						"ffffff"
+					]
+				]
+			],
+			[
+				14178.0821917808,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				15513.698630137,
+				[
+					[
+						"Add Camera Zoom",
+						"0.045",
+						""
+					]
+				]
+			],
+			[
+				15719.1780821918,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						""
+					]
+				]
+			],
+			[
+				28664.3835616438,
+				[
+					[
+						"Add Camera Zoom",
+						"0.045",
+						""
+					]
+				]
+			],
+			[
+				28869.8630136986,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						""
+					]
+				]
+			],
+			[
+				39452.0547945205,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					]
+				]
+			],
+			[
+				65753.4246575343,
+				[
+					[
+						"Change Character",
+						"dad",
+						"popbob-pixel"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfmc-pixel"
+					]
+				]
+			],
+			[
+				92054.794520548,
+				[
+					[
+						"Change Character",
+						"dad",
+						"popbob"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfpopbob"
+					]
+				]
+			],
+			[
+				92260.2739726028,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				94417.8082191782,
+				[
+					[
+						"Add Camera Zoom",
+						"0.045",
+						""
+					]
+				]
+			],
+			[
+				94623.287671233,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						""
+					]
+				]
+			],
+			[
+				107568.493150685,
+				[
+					[
+						"Add Camera Zoom",
+						"0.045",
+						""
+					]
+				]
+			],
+			[
+				107773.97260274,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						""
+					]
+				]
+			],
+			[
+				118356.164383562,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfpopbob",
+		"bpm": 146,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Popbob"
+	}
+}
