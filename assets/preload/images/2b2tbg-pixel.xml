@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="2b2tbg-pixel.png"><SubTexture name="2b2tbg-pixel idle0000" x="0" y="0" width="196" height="112" frameX="0" frameY="0" frameWidth="196" frameHeight="112" />
+<SubTexture name="2b2tbg-pixel idle0001" x="196" y="0" width="196" height="112" frameX="0" frameY="0" frameWidth="196" frameHeight="112" />
+<SubTexture name="2b2tbg-pixel idle0002" x="392" y="0" width="196" height="112" frameX="0" frameY="0" frameWidth="196" frameHeight="112" />
+<SubTexture name="2b2tbg-pixel idle0003" x="588" y="0" width="196" height="112" frameX="0" frameY="0" frameWidth="196" frameHeight="112" />
+</TextureAtlas>
