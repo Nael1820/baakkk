@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "popbob idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				107,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "popbob left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "popbob down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				72,
+				59
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "popbob up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "popbop right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				136,
+				95
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "popbob left alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				54
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "popbob down alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				154
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "popbob up alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				100
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "popbob idle alt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "popbob right alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/popbob",
+	"position": [
+		30,
+		130
+	],
+	"healthicon": "popbob",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

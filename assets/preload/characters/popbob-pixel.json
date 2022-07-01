@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "popbob-pixel idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "popbob-pixel left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "popbob-pixel down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "popbob-pixel up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "popbob-pixel right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/popbob-pixel",
+	"position": [
+		170,
+		260
+	],
+	"healthicon": "popbob-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		181
+	],
+	"camera_position": [
+		-190,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 10
+}
